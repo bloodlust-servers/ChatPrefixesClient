@@ -1,7 +1,7 @@
 {
   "name": "ChatPrefixesClient",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/bloodlust-servers/ChatPrefixesClient",
   "description": "Клиентская часть Chat Prefixes: рисует цветные префиксы и ники в чате и над головой игрока.",
   "dependencies": [
     "BepInEx-BepInExPack_V_Rising-1.733.2"
