@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbBUGsvOZlggXT6EPZpeIllnndsslFQufBbVXal7nQEg7gaTrxe0HjJbWGhVCTup8DrY4OrxoPsPsR8EIldwTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\ChatPrefixesClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oks\\.nuget\\packages\\vrising.unhollowed.client\\1.1.9.9219901\\vrising.unhollowed.client.1.1.9.9219901.nupkg.sha512"
+  ],
+  "logs": []
+}

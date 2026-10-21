@@ -1,0 +1,10 @@
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\bin\Release\ChatPrefixesClient.deps.json
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\bin\Release\ChatPrefixesClient.dll
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.csproj.AssemblyReference.cache
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.AssemblyInfoInputs.cache
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.AssemblyInfo.cs
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.csproj.CoreCompileInputs.cache
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ChatPrefixesClient.dll
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\refint\ChatPrefixesClient.dll
+C:\Users\Oks\Desktop\свои моды\ChatPrefixesClient\obj\Release\ref\ChatPrefixesClient.dll

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\ChatPrefixesClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\ChatPrefixesClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\ChatPrefixesClient.csproj",
+        "projectName": "ChatPrefixesClient",
+        "projectPath": "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\ChatPrefixesClient.csproj",
+        "packagesPath": "C:\\Users\\Oks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oks\\Desktop\\свои моды\\ChatPrefixesClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "VRising.Unhollowed.Client": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[1.1.9.9219901, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
